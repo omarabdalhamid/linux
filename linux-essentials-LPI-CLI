@@ -1,0 +1,4 @@
+uname -r         [will show your kernel version]
+
+lsb_release -a   [will show your Distribution.]
+
