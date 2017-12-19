@@ -2,3 +2,65 @@ uname -r         [will show your kernel version]
 
 lsb_release -a   [will show your Distribution.]
 
+cat .bash_history  [Show history file ]
+
+history -c  [ Clear history]
+
+ls -lh   [list dir]
+
+man 5 crontab [ manual pages ]
+
+info crontab [info pages ]
+
+whatis crontab [ crontab caption ]
+
+wheris [ ]
+
+which ls [ Using this command we can search for executable programs or scripts that are located in the PATH variabl]
+
+man -k  / apropos  [list where the man pages are located]
+
+find -name "query" [  file by name, type ]
+
+find -iname "query" [  a file by name, but ignore the case of the query, type]
+
+find \! -name "query_to_avoid"  [  find all files that don't adhere to a specific pattern]
+
+find -type type_descriptor query [ specify the type of files]
+
+find / -type f -name "*.conf" [ search for all files that end in ".conf"]
+
+find / -size +700M  [  Find all files more than 700 Megabytes] 
+
+grep 'word' filename [ find word in file ]
+
+ncdu [ ncdu package for usage] 
+
+tar -cvf file.tar [ create tar file ]
+
+tar -xvf file.tar [ extract tar file ]
+
+tar -tf file.tar [ verify tar file ]
+
+ls -l | grep file.txt [grep ls -l grep ]
+
+grep -E 'max_size' /etc/php.ini
+
+head -n 2 file.txt
+
+tail -n 4 file.txt
+
+tail -f /var/log/syslog  [ use on logs file ]
+
+wc file.txt  [ lines words characters ]
+
+
+
+
+
+
+
+
+
+
+
