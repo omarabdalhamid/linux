@@ -54,6 +54,17 @@ tail -f /var/log/syslog  [ use on logs file ]
 
 wc file.txt  [ lines words characters ]
 
+hwinfo --netcard [ hardware info ]
+
+hwinfo --gfxcard [ graphic card info  ]
+
+hwinfo --netcard [network card info ]
+
+cat /proc/partitions [partations info]
+
+lsmod [ loaded module]
+
+
 
 
 
