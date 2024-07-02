@@ -1,0 +1,14 @@
+VITE_BASE_API_URL='https://api.tamra.tech/api'
+# app.tamracapital.sa/api
+# https://api.tamra.tech/api
+ 
+VITE_API_TOKEN = "XG85KxgmJhbU84AUmJLXjKMMqiQxDN4r7D9qSFC60ihN5V0vrsNKidpmbI6lTGM7"
+VITE_RECAPTCHA_PUBLIC_KEY = "6Lda0TshAAAAAEdYqT6XoqOp8z_BODJ5I50BSYJE"
+VITE_GLOBAL_ETFS_IMAGE = "https://api.tamra.tech/assets/img/portfolio/all.jpg"
+VITE_ENV = 'staging'
+VITE_MERCHANT_ID='merchant.com.tamracapital'
+VITE_MERCHANT_DISPLAY='merchant.com.tamracapital'
+VITE_PAYMENT_REQUEST_API='yes'
+VITE_APPLE_PAY_VERSION_NUMBER=6
+HYPERPAY_TOKEN="OGFjN2E0Yzk4YWVkNGI2YjAxOGFlZWZjNDIwYjAxYmN8VFJ0bWFUS1hzQzRza1RwQw=="
+VITE_LEAN_APP_TOKEN="c55dabf6-082e-4b04-ba62-b1e79d87ba7c"
